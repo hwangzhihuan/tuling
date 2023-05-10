@@ -18,4 +18,8 @@ public class Test {
 	public static void update() {
 		// 甲方添加
 	}
+
+	public static void select() {
+		// 乙方添加
+	}
 }
