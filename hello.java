@@ -10,4 +10,8 @@ public class Test {
 	public static void insert() {
 		
 	}
+
+	public static void delete() {
+		
+	}
 }
