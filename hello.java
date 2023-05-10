@@ -21,5 +21,6 @@ public class Test {
 
 	public static void select() {
 		// 乙方添加
+		System.out.println(); 
 	}
 }
