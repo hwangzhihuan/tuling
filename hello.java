@@ -12,6 +12,6 @@ public class Test {
 	}
 
 	public static void delete() {
-		
+		// master test	
 	}
 }
