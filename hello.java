@@ -23,4 +23,6 @@ public class Test {
 		// 乙方添加
 		System.out.println(); 
 	}
+
+	class Person {}
 }
