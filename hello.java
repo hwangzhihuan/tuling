@@ -14,4 +14,8 @@ public class Test {
 	public static void delete() {
 		// master test		
 	}
+
+	public static void update() {
+		// 甲方添加
+	}
 }
